@@ -1,6 +1,6 @@
  <div align="center">
     <!-- 顶部横幅 -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:EEFF00,100:a82da8&text=从零开始的编码学习&fontColor=fff&textBg=false&fontAlign=50&animation=scaleIn&reversal=true&fontAlignY=36&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Actions%20speak%20louder%20than%20words.&fontSize=50&fontAlignY=35&animation=twinkling" />
 
   <!-- 打字特效 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&center=true&repeat=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81)](https://git.io/typing-svg)
@@ -31,22 +31,22 @@
 </h2>
 
 <!-- github stats与language -->
-<div align="center" style="display: flex; flex-direction: row;">
+<div align="center" style="display: grid;">
   <img src="https://github-readme-stats.vercel.app/api?username=ee268&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ee268&theme=radical"/>
 </div>
 
 <!-- 项目标题 -->
 <h2 align="center">
-  近期项目
+  公开项目
 </h2>
 
 <!-- 项目仓库 -->
-<div align="center">
+<div align="center" style="display: grid;">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ee268&repo=CloudMusic&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ee268&repo=CloudMusic&theme=radical" />
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ee268&repo=ElectronicAlbum&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ee268&repo=ElectronicAlbum&theme=radical" />
   
 </div>
 

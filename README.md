@@ -44,6 +44,8 @@
 <!-- 项目仓库 -->
 <div align="center" style="display: grid;">
 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ee268&repo=InstantChat&theme=radical" />
+
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ee268&repo=GateServer&theme=radical" />
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ee268&repo=VerifyServer&theme=radical" />

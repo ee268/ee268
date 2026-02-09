@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Actions%20speak%20louder%20than%20words.&fontSize=50&fontAlignY=35&animation=twinkling" />
 
   <!-- 打字特效 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&center=true&repeat=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+profile%2C+I%EF%BC%87m+ee268)](https://git.io/typing-svg)
 
   <!-- github和csdn跳转按钮 -->
 
@@ -16,9 +16,9 @@
 <!-- 访问、关注者、星标统计 -->
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=ee268&style=for-the-badge&color=blueviolet" alt="访问计数器" />
-    <img src="https://img.shields.io/github/followers/ee268?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
-    <img src="https://img.shields.io/github/stars/ee268?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+    <img src="https://komarev.com/ghpvc/?username=ee268&style=for-the-badge&color=blueviolet" alt="visit count" />
+    <img src="https://img.shields.io/github/followers/ee268?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="follower" />
+    <img src="https://img.shields.io/github/stars/ee268?style=for-the-badge&color=FFC371&labelColor=141321" alt="stars" />
   </p>
 </div>
 
@@ -27,7 +27,7 @@
 
 <!-- 统计标题 -->
 <h2 align="center">
-  统计信息
+  Analytic Info
 </h2>
 
 <!-- github stats与language -->
@@ -38,7 +38,7 @@
 
 <!-- 项目标题 -->
 <h2 align="center">
-  公开项目
+  Public Repository
 </h2>
 
 <!-- 项目仓库 -->
@@ -57,13 +57,13 @@
 <!-- 添加项目按钮 -->
 <div align="center">
   <a href="https://github.com/ee268?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
+    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="more project" />
   </a>
 </div>
 
 <!-- 贡献标题 -->
 <h2 align="center">
-   最近贡献
+   Recently Contribute
 </h2>
 
 <!-- 贡献蛇形图 -->

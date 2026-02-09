@@ -75,17 +75,7 @@
 </picture>
 </div>
 
-<!-- 贡献标题 -->
-<h2 align="center">
-  过去活动
-</h2>
-
+<!-- 底部横幅 -->
 <div align="center">
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ee268&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:EEFF00,100:a82da8&text=感谢您的访问&fontColor=fff&textBg=false&fontAlign=50&animation=scaleIn&reversal=true&fontAlignY=73&fontSize=50&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Thank%20you%20for%20visiting&fontAlignY=73&fontSize=50&section=footer"/>
 </div>
